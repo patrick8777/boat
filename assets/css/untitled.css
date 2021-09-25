@@ -1,0 +1,8 @@
+.bubble {
+  z-index: 999;
+}
+
+img {
+  z-index: 1;
+}
+
